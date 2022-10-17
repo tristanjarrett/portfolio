@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Snippets
+title: Blog
 date: 2022-10-14
 ---
 
-# Snippets
+# Blog

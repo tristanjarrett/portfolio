@@ -2,7 +2,7 @@
 title: Markdown Examples
 date: 2022/10/14
 description: View examples of all possible Markdown options.
-tag: web development, markdown
+tag: markdown
 author: Tristan
 ---
 

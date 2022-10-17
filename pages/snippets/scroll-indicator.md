@@ -2,7 +2,7 @@
 title: Scroll Indicator
 date: 2019/4/16
 description: How to create a scroll indicator with JavaScript
-tag: web development, javascript, css, html
+tag: javascript, css, html
 author: Tristan
 ---
 
